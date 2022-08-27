@@ -1,16 +1,26 @@
-### Hi there 👋
+# Zandra Monteiro
 
-<!--
-**zmmarina/zmmarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zandramonteiro.medium.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zandramonteiro/)
 
-Here are some ideas to get you started:
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmmarina&layout=compact&theme=dracula"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+</br>
+
+## 🎠 I believe that... 
+- Coding is a tool to reach solutions! 💻
+- Communication is the key 💬
+- Teamwork means better ideas and improved efficiency. 🤝  
+
+</br>
+
+## 💻 Tools: 
+- Java ☕
+- Python 🐍
+- AWS ☁️
+
+
+
